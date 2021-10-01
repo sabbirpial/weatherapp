@@ -1,0 +1,27 @@
+body {
+    background-image: url('images/pexels-lisa-1107717.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+
+#search {
+    width: 30%;
+}
+
+#head {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+#loadedFromServer {
+    color: white;
+    width: 50%;
+    margin: auto;
+    margin-top: 20px;
+}
+
+#loadedFromServer p {
+    font-size: 3rem;
+}
